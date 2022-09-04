@@ -1,0 +1,8 @@
+6 chairs, each costing $35, totals $
+
+# Expression Register
+# A
+# <C-r>=6*35<CR>
+
+6 chairs, each costing $35, totals $210
+

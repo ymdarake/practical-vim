@@ -1,0 +1,27 @@
+I have some more  questions.
+
+daw
+gUaw
+dap
+gUap
+gUU
+dd
+
+insert mode:
+<C-h>
+<C-w>
+<C-u>
+
+# <C-v>065
+# <C-v>u1234
+A
+ሴ
+¿
+# ga to inspect char code
+# :help ga
+
+:help digraph-table
+# <C-k>{char1}{char2}
+# <C-k>12
+½
+

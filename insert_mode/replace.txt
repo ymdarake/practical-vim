@@ -1,0 +1,8 @@
+Typing in Insert mode extends the line. But in Replace mode
+the line length doesn't change.
+
+# f.
+# R, b<Esc>
+Typing in Insert mode extends the line, but in Replace mode
+the line length doesn't change.
+

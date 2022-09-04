@@ -1,0 +1,14 @@
+Practical Vim, by Drew Neil
+Read Drew Neil's
+
+###
+yt,
+jA<_>
+<C-r>0
+.<Esc>
+
+Practical Vim, by Drew Neil
+Read Drew Neil's Practical Vim.
+
+# :reg
+
